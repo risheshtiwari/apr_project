@@ -59,7 +59,7 @@ We trained four supervised machine learning regression models:
     Linear Regression	       ~0.91	          Good baseline performance
     Lasso Regression	       ~0.89	          Simplifies model by reducing coefficients
     Ridge Regression	       ~0.93	          Best stability & performance
-    ElasticNet Regression	       ~0.92	          Balanced regularization
+    ElasticNet Regression	 ~0.92	          Balanced regularization
 
 
 
